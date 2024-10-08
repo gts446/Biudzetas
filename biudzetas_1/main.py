@@ -1,4 +1,4 @@
-import biudzetas.Modules as budget
+import biudzetas_1.Modules as budget
 
 my_budget = budget.Budget()
 ################ SAMPLE DATA #############################
