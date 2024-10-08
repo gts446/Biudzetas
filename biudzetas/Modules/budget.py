@@ -1,3 +1,5 @@
+from biudzetas.Modules import IncomeEntry, ExpenseEntry
+from biudzetas.Modules import Entry
 class Budget:
     def __init__(self, journal: list[Entry] = []) -> None:
         self.journal = journal
