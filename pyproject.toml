@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "biudzetas"
+name = "biudzetas_1"
 version = "0.1.0"
 description = ""
 authors = ["Your Name <gytis.bendikas@gmail.com>"]
@@ -7,6 +7,8 @@ readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "^3.12"
+ernestas-biudzetas = "^0.1.0"
+streamlit = "^1.39.0"
 
 
 [build-system]
